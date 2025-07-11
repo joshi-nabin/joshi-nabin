@@ -31,7 +31,7 @@
 - Contribute to open-source and real-world projects
 
 🤝 I'm open to:
-- Collaborating on DevOps-related projects
+- Collaborating on Cloud-related projects
 - Networking with other learners and mentors
 - Sharing knowledge through GitHub, blogs, or videos
 
