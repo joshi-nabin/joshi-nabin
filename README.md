@@ -16,6 +16,7 @@
 - 🔧 **DevOps Tools (Git, Docker, CI/CD)**
 - 💻 **Python & JavaScript Basics**
 - 🌐 **Building Projects with HTML, CSS, JS**
+- 📈 **Search Engine Optimization Enthusiast**
 
 📘 Recently completed:
 - ✅ *AWS Essentials: A Complete Beginner's Guide*  
